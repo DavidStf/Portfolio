@@ -1,0 +1,16 @@
+:root{
+    --mianColor:#607949;
+    --secondaryColor: #37422b;
+   
+    --borderColor: #161914; 
+    --mainText: white ;
+    --secondaryText: #eeeeee;
+    
+    --themeDotBorder: #fff;
+    --previewBg: rgb(81,90,72,0.8);
+    --previewShadow: #2a2f25;
+
+    --btnCol:black;
+    --skillName: #fff;
+    --naviAcolor: #fff;
+}
